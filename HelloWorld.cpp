@@ -1,5 +1,7 @@
 // Simple C++ program to display "Hello World" 
 //fixing conflict error
+
+//Author: Racquel Martens <fp1164@wayne.edu>
 // Header file for input output functions 
 #include<iostream>  
   
